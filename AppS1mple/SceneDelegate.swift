@@ -21,6 +21,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
       print("commit 3")
       print("commit 3")
       print("commit 5")
+      print("commit 6")
     guard let _ = (scene as? UIWindowScene) else { return }
   }
 
